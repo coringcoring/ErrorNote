@@ -1,4 +1,4 @@
-[블로그 링크](https://pigeon-blog.tistory.com/202)
+## [블로그 링크](https://pigeon-blog.tistory.com/202)
 
 
 Spring Cloud MSA 강의를 들으면서 프로젝트 세팅을 할때, 버전을 pom.xml로 직접 수정하여 고쳤더니 sync가 이루어지지 않는 에러였다. 
